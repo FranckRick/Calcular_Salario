@@ -1,0 +1,12 @@
+**Calculo simples de folha de pagamento**
+
+**Calculo simples de folha de pagamento**
+
+Salario  devem ser digitados sem o separador de milhar(.) e ultilizando separador de moeda (,)caso nescessario.
+Outro descontos valor pre defindo pelo usuario,
+Desconto do INSS feito apartir da nova regra de calculos,
+IRRF (imposto de renda retido na fonte),segue as alíquotas da Receita federal para calculos,
+Vale   valor adiantado referente a 40% do valor do salario bruto,
+Salario liquido valor obtido apos a soma de todos os descontos.. 
+
+Projeto para pratica de HTML,CSS e Java Script..
